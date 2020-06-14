@@ -9,7 +9,8 @@ Assista o vídeo:
 
 ## Sumário
 - [O que você vai aprender](#O-que-você-vai-aprender)
-- [Pré-requisitos](#pré-requisitos)
+- [Pré-requisitos](#Pré-requisitos)
+- [Enunciado do exercício](#Enunciado-do-exercício)
 - [Diagramas](#Diagramas)
   - [Modelo conceitual](#Modelo-conceitual)
   - [Instância](#Instância)
@@ -26,6 +27,10 @@ Assista o vídeo:
 ## Pré-requisitos
 
 - Para melhor aproveitamento da aula, é desejável já ter conhecimento básico de tipos estruturados (ou classes) e modelagem de dados
+
+## Enunciado do exercício
+
+https://docs.google.com/document/d/1j5qneO_DVgUPjKoBnMHiO7rygi-yS24AZwt92fw3rP0/edit?usp=sharing
 
 ## Diagramas
 
