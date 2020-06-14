@@ -31,7 +31,8 @@ Assista o vídeo:
 
 ### Modelo conceitual
 
-
+![myImage](https://github.com/devsuperior/aulao001/raw/master/modelo-conceitual.png)
 
 ### Instância
 
+![myImage](https://github.com/devsuperior/aulao001/raw/master/instancia.png)
