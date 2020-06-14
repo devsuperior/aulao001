@@ -5,7 +5,7 @@
 
 Assista o vídeo:
 
-[![Image](https://s3-sa-east-1.amazonaws.com/educandoweb.com.br/img/devsuperior/capa004-small.jpg "Vídeo no Youtube")](https://www.youtube.com/watch?v=-X9aL2rqKhM)
+[![Image](https://img.youtube.com/vi/-X9aL2rqKhM/mqdefault.jpg "Vídeo no Youtube")](https://www.youtube.com/watch?v=-X9aL2rqKhM)
 
 ## Sumário
 - [O que você vai aprender](#O-que-você-vai-aprender)
